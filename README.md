@@ -1,7 +1,8 @@
 # dataMing_getImportance
 
 入口函数：GetImportance.py
-运行方式：
+运行方式：  
+
  1)下载requirement.txt中涉及到的python包;     
  2）修改config/config_default.py中的数据库等配置;   
  3）运行命令：python GetImportance.py;  
